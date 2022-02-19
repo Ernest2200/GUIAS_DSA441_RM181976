@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppSalary</string>
+    <string name="TextSalary">Calculate Salary</string>
+    <string name="Back">Back</string>
+    <string name="Title">Fill the fields</string>
+
+</resources>
