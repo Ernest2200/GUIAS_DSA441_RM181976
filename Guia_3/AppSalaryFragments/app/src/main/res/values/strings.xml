@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppSalaryFragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="TextSalary">Calculate Salary</string>
+    <string name="Back">Back</string>
+    <string name="Title">Fill the fields</string>
+    <string name="Clear">Clear the fields</string>
+</resources>
