@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginFirebaseGuia7</string>
+
+    <string name="facebook_app_id">500015164949310</string>
+    <string name="fb_login_protocol_scheme">fb500015164949310</string>
+    <string name="facebook_client_token">8ff00a320972baf4ec02f1c4b0d9fd02</string>
+
+
+</resources>
