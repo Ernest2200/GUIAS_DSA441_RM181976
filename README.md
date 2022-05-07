@@ -15,3 +15,5 @@ Guia 5 desarrollo ejercicio complementario android studio (java)
 Guia 6 desarrollo ejercicio complementario android studio (java)
 
 Guia 7 desarrollo ejercicio complementario android studio (java)
+
+Guia 8 desarrollo ejercicio complementario android studio (java)
